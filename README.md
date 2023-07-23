@@ -54,14 +54,14 @@
 <br>
 <br>
 
-### Current Project
+### 🥧 Current Project
 
 I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺🇦 passionate about game development and web technologies.
 
 <br>
 <br>
 
-#### HTML, CSS:
+#### 💻 HTML, CSS:
 * [Learning how to learn](https://github.com/SergeyAlexandrowich/learning-how-to-learn) -single-page website <br>  <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-blue">
 * [Beauty-salon](https://github.com/SergeyAlexandrowich/Beauty-salon) - multi-page website <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-brown">
  * [Travel](https://github.com/SergeyAlexandrowich/Travel) - single-page website <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-orange">
@@ -73,7 +73,7 @@ I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺�
 <br>
 <br>
 
-### Socials 
+### 📱 Socials 
 [<img align="left" alt="proskurnin Linkendin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">](https://www.linkedin.com/in/sergij-proskurnin-233453280/)
 [<img align="left" alt="proskurnin Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/240px-Instagram-Icon.png">](https://www.instagram.com/serezha_proskurnin/)
 
