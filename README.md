@@ -17,6 +17,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 </div>
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 ### Education
 - [Palianytsia Game Dev Studio](https://pgds.xyz/) |May, 2023 -  *current*
