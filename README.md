@@ -47,7 +47,8 @@
 
 <br>
 <br>
-###  📑: Education
+
+### 📚 Education:
 - [Palianytsia Game Dev Studio](https://pgds.xyz/) |May, 2023 -  *current*
 
 <br>
