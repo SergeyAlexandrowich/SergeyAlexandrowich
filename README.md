@@ -16,6 +16,8 @@
 I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺🇦 passionate about game development and web technologies.
 
 <hr>
+<br>
+<br>
 
 #### HTML, CSS:
 * [Learning how to learn](https://github.com/SergeyAlexandrowich/learning-how-to-learn) -single-page website <br>  <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-blue">
@@ -27,12 +29,18 @@ I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺�
  * [Alivio](https://github.com/SergeyAlexandrowich/Alvio) - single-page website  <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
  
 <hr>
+<br>
+<br>
 
 ### Socials 
 [<img align="left" alt="proskurnin Linkendin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">](https://www.linkedin.com/in/sergij-proskurnin-233453280/)
 [<img align="left" alt="proskurnin Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/240px-Instagram-Icon.png">](https://www.instagram.com/serezha_proskurnin/)
 
-<hr>
+
+<br>
+<br>
+
+
 ### ⚙️ GitHub Statistics:
 
 <table>
