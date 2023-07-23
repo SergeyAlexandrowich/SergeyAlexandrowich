@@ -1,6 +1,15 @@
 # Hi, My name is Serezha Proskurnin 
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SergeyAlexandrowich)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+
+
 ### :man_technologist: About me:
 
 *As a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, I am crafting living, breathing works of art that evoke emotions, spark inspiration, and leave a lasting impression. My dedication to beauty in web development is a testament to my belief that technology can be a gateway to a world where aesthetics and functionality are harmoniously intertwined, making the virtual realm an enchanting and unforgettable place for all who visit.*
