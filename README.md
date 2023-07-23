@@ -42,12 +42,12 @@
 <br>
 <br>
 
-### 🛠 Activity graph:
+### :watch:  Activity graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SergeyAlexandrowich&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
-### Education
+###  📑: Education
 - [Palianytsia Game Dev Studio](https://pgds.xyz/) |May, 2023 -  *current*
 
 <br>
