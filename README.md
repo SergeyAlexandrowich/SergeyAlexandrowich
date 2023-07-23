@@ -32,4 +32,17 @@ I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺�
 [<img align="left" alt="proskurnin Linkendin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">](https://www.linkedin.com/in/sergij-proskurnin-233453280/)
 [<img align="left" alt="proskurnin Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/240px-Instagram-Icon.png">](https://www.instagram.com/serezha_proskurnin/)
 
+<hr>
+### ⚙️ GitHub Statistics:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=SergeyAlexandrowich&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergeyAlexandrowich&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
