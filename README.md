@@ -1,4 +1,14 @@
 # Hi, My name is Serezha Proskurnin 
+
+
+### :man_technologist: About me:
+
+*As a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, I am crafting living, breathing works of art that evoke emotions, spark inspiration, and leave a lasting impression. My dedication to beauty in web development is a testament to my belief that technology can be a gateway to a world where aesthetics and functionality are harmoniously intertwined, making the virtual realm an enchanting and unforgettable place for all who visit.*
+
+
+<br>
+<br>
+
 ### 💻 Technologies:
 
 <div>
@@ -8,15 +18,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
 </div>
 
-### :man_technologist: About me:
-
-As a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, I am crafting living, breathing works of art that evoke emotions, spark inspiration, and leave a lasting impression. My dedication to beauty in web development is a testament to my belief that technology can be a gateway to a world where aesthetics and functionality are harmoniously intertwined, making the virtual realm an enchanting and unforgettable place for all who visit.
-
+<br>
+<br>
 
 
-
-
----
 
 ### 🛠 Tools:
 
@@ -25,21 +30,20 @@ As a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 </div>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<br>
+<br>
 
 
 ### Education
 - [Palianytsia Game Dev Studio](https://pgds.xyz/) |May, 2023 -  *current*
 
-<hr>
+<br>
+<br>
 
 ### Current Project
 
 I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺🇦 passionate about game development and web technologies.
 
-<hr>
 <br>
 <br>
 
@@ -52,7 +56,6 @@ I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺�
  * [Accomodation](https://github.com/SergeyAlexandrowich/Accomodation) - single-page website  <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-grey">
  * [Alivio](https://github.com/SergeyAlexandrowich/Alvio) - single-page website  <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
  
-<hr>
 <br>
 <br>
 
