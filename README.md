@@ -10,9 +10,7 @@
 
 ### :man_technologist: About me:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
-
-As a web developer, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I am crafting living, breathing works of art that evoke emotions, spark inspiration, and leave a lasting impression. My dedication to beauty in web development is a testament to my belief that technology can be a gateway to a world where aesthetics and functionality are harmoniously intertwined, making the virtual realm an enchanting and unforgettable place for all who visit.
+As a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, I am crafting living, breathing works of art that evoke emotions, spark inspiration, and leave a lasting impression. My dedication to beauty in web development is a testament to my belief that technology can be a gateway to a world where aesthetics and functionality are harmoniously intertwined, making the virtual realm an enchanting and unforgettable place for all who visit.
 
 
 
