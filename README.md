@@ -42,14 +42,8 @@
 <br>
 <br>
 
-### :watch:  Activity graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SergeyAlexandrowich&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-<br>
-
 ### 📚 Education:
-- [Palianytsia Game Dev Studio](https://pgds.xyz/) |May, 2023 -  *current*
+- [Palianytsia Foundation](https://pgds.xyz/) |May, 2023 -  *current*
 
 <br>
 <br>
@@ -61,17 +55,6 @@ I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺�
 <br>
 <br>
 
-#### 💻 HTML, CSS:
-* [Learning how to learn](https://github.com/SergeyAlexandrowich/learning-how-to-learn) -single-page website <br>  <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-blue">
-* [Beauty-salon](https://github.com/SergeyAlexandrowich/Beauty-salon) - multi-page website <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-brown">
- * [Travel](https://github.com/SergeyAlexandrowich/Travel) - single-page website <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-orange">
- * [Cakes](https://github.com/SergeyAlexandrowich/Cakes) - multi-page website <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-pink">
-  * [Shoes](https://github.com/SergeyAlexandrowich/Shoes) - single-page website  <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-red">
- * [Accomodation](https://github.com/SergeyAlexandrowich/Accomodation) - single-page website  <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-grey">
- * [Alivio](https://github.com/SergeyAlexandrowich/Alvio) - single-page website  <br> <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
- 
-<br>
-<br>
 
 ### 📱 Socials 
 [<img align="left" alt="proskurnin Linkendin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">](https://www.linkedin.com/in/sergij-proskurnin-233453280/)
