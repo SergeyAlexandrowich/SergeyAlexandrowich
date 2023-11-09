@@ -50,7 +50,7 @@
 
 ### 🥧 Current Project
 
-I am member of the Palyanitsa project - a group of teenagers from Ukraine 🇺🇦 passionate about game development and web technologies.
+I am member of the [Palianytsia Foundation](https://pgds.xyz/) - a group of teenagers from Ukraine 🇺🇦 passionate about game development and web technologies.
 
 <br>
 <br>
